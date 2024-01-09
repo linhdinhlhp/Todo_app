@@ -14,7 +14,7 @@ Trong thời đại của cảm giác bão thông tin mà chúng ta đang sống
 Đây cũng là cách tiếp cận của tôi, nhưng theo thời gian, tôi bắt đầu cảm thấy hạn chế với các tính năng cơ bản và thấy mình phải dùng nhiều ứng dụng khác nhau để thực hiện các chức năng khác nhau.
 
 
-Các trường hợp sử dụng chính của tôi bao gồm:
+**Các trường hợp sử dụng chính của tôi bao gồm:**
 
 
 Một nơi để lên kế hoạch cho tuần của tôi.
