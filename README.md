@@ -80,8 +80,8 @@ npm install
 >Viết dấu 
 
 
-– Dòng 1
-– Dòng 1
-– Dòng 1
+–Dòng 1
+–Dòng 2
+–Dòng 3
 
 
