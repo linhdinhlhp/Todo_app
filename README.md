@@ -60,6 +60,8 @@ Hãy bắt đầu với ứng dụng của chúng ta, Moonshine:
 Chúng ta sẽ xây dựng ứng dụng của mình trong hai giai đoạn - phía sau (backend) và phía trước (front-end). Cả hai sẽ được lưu trữ trong các kho lưu trữ GitHub riêng biệt, và tôi cũng sẽ hướng dẫn bạn cách triển khai Moonshine lên web, cho phép chúng ta truy cập nó từ bất kỳ đâu.
 Hãy bắt đầu với phía sau trước.
 
+```bash
+npm install
 Bắt đầu với cài đặt cơ bản:
 Chúng ta sẽ bắt đầu bằng một Git repo trống. Tạo một kho lưu trữ Git trống, nhập tất cả các thông tin liên quan và công bố nó lên GitHub. Sau đó, mở nó trong môi trường phát triển tích hợp của bạn (tôi sẽ sử dụng VS Code):
 
@@ -68,8 +70,7 @@ Bước đầu tiên ở đây sẽ là cài đặt tất cả các gói cần t
 //npm i dotenv novu bcryptjs body-parser cors express jsonwebtoken mongoose nodemon
 Để bắt đầu quá trình này, chúng ta sẽ tạo một tệp package.json bằng lệnh sau:
 
-```bash
-npm install
+
 
 
 
