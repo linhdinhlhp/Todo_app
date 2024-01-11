@@ -55,3 +55,20 @@ Bước đầu tiên ở đây sẽ là cài đặt tất cả các gói cần t
 //npm i dotenv novu bcryptjs body-parser cors express jsonwebtoken mongoose nodemon
 Để bắt đầu quá trình này, chúng ta sẽ tạo một tệp package.json bằng lệnh sau:
 
+**signUp:**
+
+Kiểm tra xem người dùng đã tồn tại hay chưa bằng cách tìm trong cơ sở dữ liệu.
+Kiểm tra tính đúng đắn của mật khẩu và xác nhận mật khẩu.
+Sử dụng bcrypt để băm mật khẩu trước khi lưu vào cơ sở dữ liệu.
+Tạo một người dùng mới trong cơ sở dữ liệu và trả về thông tin người dùng cùng với JWT.
+
+**signIn:**
+
+Kiểm tra xem người dùng có tồn tại hay không bằng cách tìm trong cơ sở dữ liệu.
+Kiểm tra tính đúng đắn của mật khẩu bằng cách so sánh với mật khẩu được lưu trong cơ sở dữ liệu.
+Nếu mật khẩu đúng, tạo JWT và trả về thông tin người dùng cùng với token.
+
+
+
+
+
