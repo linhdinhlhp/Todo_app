@@ -68,6 +68,8 @@ Bước đầu tiên ở đây sẽ là cài đặt tất cả các gói cần t
 //npm i dotenv novu bcryptjs body-parser cors express jsonwebtoken mongoose nodemon
 Để bắt đầu quá trình này, chúng ta sẽ tạo một tệp package.json bằng lệnh sau:
 
+```bash
+npm install
 
 
 
