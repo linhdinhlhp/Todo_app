@@ -26,8 +26,7 @@ Gửi nhắc nhở qua email chính thức cho đồng nghiệp làm việc.
 Ứng dụng cần phải sẵn có ở mọi nơi.
 Để thực hiện những điều này, tôi phải dùng nhiều ứng dụng khác nhau: một ứng dụng quản lý công việc chạy trên nhiều nền tảng (điều này khá khó khăn để tìm), một ứng dụng lịch, một ứng dụng trích dẫn, một ứng dụng nhắn tin và một ứng dụng email.
 
-```bash
-npm install
+
 
 
 Không cần phải nói, việc chuyển đổi giữa nhiều ứng dụng như vậy đã làm mất mục đích ban đầu của việc sử dụng ứng dụng: tối ưu hóa năng suất cá nhân trong một môi trường không bị xao lấy.
@@ -73,8 +72,9 @@ Bước đầu tiên ở đây sẽ là cài đặt tất cả các gói cần t
 //npm i dotenv novu bcryptjs body-parser cors express jsonwebtoken mongoose nodemon
 Để bắt đầu quá trình này, chúng ta sẽ tạo một tệp package.json bằng lệnh sau:
 
-
-
+***
+```bash
+npm install
 
 
 
