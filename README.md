@@ -77,7 +77,8 @@ Bước đầu tiên ở đây sẽ là cài đặt tất cả các gói cần t
 ```bash
 npm install
 ```
-Viết dấu > (dấu lớn) để hiển thị quote (trích dẫn):
+>Viết dấu 
+
 
 
 
