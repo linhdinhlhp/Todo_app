@@ -62,6 +62,7 @@ Hãy bắt đầu với phía sau trước.
 
 ```bash
 npm install
+
 Bắt đầu với cài đặt cơ bản:
 Chúng ta sẽ bắt đầu bằng một Git repo trống. Tạo một kho lưu trữ Git trống, nhập tất cả các thông tin liên quan và công bố nó lên GitHub. Sau đó, mở nó trong môi trường phát triển tích hợp của bạn (tôi sẽ sử dụng VS Code):
 
