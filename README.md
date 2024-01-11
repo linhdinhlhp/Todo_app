@@ -79,9 +79,9 @@ npm install
 ```
 >Viết dấu 
 
-
--Dòng 1
--Dòng 2
--Dòng 3
+# Dây là những yêu cầu
+* Dòng 1
+* Dòng 2
+* Dòng 3
 
 
