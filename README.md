@@ -70,7 +70,8 @@ Chúng ta sẽ bắt đầu bằng một Git repo trống. Tạo một kho lưu 
 ``` (npm init -y) 
 Bước đầu tiên ở đây sẽ là cài đặt tất cả các gói cần thiết. Chúng ta sẽ phụ thuộc vào một số gói từ npm (Node Package Manager).
 //npm i dotenv novu bcryptjs body-parser cors express jsonwebtoken mongoose nodemon
-Để bắt đầu quá trình này, chúng ta sẽ tạo một tệp package.json bằng lệnh sau: ```
+Để bắt đầu quá trình này, chúng ta sẽ tạo một tệp package.json bằng lệnh sau:
+```
 
 ***
 ```bash
